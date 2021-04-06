@@ -9,3 +9,6 @@ Hopefully after I publish this repo they will switch to a better obfuscator afte
 
 This client is nearly 100% pasted, code is the definition of shit.
 
+credits:
+
+napolean - for based deobf config
