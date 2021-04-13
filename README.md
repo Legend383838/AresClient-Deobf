@@ -9,6 +9,4 @@ Hopefully after I publish this repo they will switch to a better obfuscator afte
 
 This client is nearly 100% pasted, code is the definition of shit.
 
-credits:
-
-napolean - for based deobf config
+# This repositry is licensed under the omaTechnologies Public License (OPL-1)
