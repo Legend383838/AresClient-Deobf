@@ -9,4 +9,4 @@ Hopefully after I publish this repo they will switch to a better obfuscator afte
 
 This client is nearly 100% pasted, code is the definition of shit.
 
-# This repositry is licensed under the omaTechnologies Public License (OPL-1)
+# This repository is licensed under the omaTechnologies Public License (OPL-1)
